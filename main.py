@@ -10,4 +10,4 @@ if (x == 0):
     print("X equals zero")
 if (x!=0):
     #Another IF statement for when x doesn't equal zero.
-    print("No, doesn't equal zero")
+    print("No, X doesn't equal zero")
